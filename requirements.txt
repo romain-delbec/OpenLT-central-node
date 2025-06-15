@@ -1,3 +1,4 @@
 fastapi[standard]==0.115.12
 uvicorn==0.34.3
 pandas==2.3.0
+requests==2.32.4
